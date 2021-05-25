@@ -1,10 +1,14 @@
 import React, { Component } from 'react'
 import { OctocatArticle } from './components/OctocatArticle'
+import { Footer } from './components/Footer'
+import { Header } from './components/Header'
 
 export class App extends Component {
   render() {
     return (
       <div>
+        <Header />
+
         <OctocatArticle
           imgLink="https://octodex.github.com//spectrocat/"
           catImg="https://octodex.github.com//images/spectrocat.png"
@@ -122,6 +126,8 @@ export class App extends Component {
           artistImg="https://github.com/jeejkang.png"
           artistName="jeejkang"
         />
+
+        <Footer />
       </div>
     )
   }
