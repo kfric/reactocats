@@ -34,7 +34,7 @@ export class Header extends React.Component {
         <nav className="navRight">
           <ul>
             <li>
-              <a class="test" href="https://twitter.com/githubdesign">
+              <a className="test" href="https://twitter.com/githubdesign">
                 Follow us on Twitter
               </a>
             </li>

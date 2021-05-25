@@ -1,0 +1,128 @@
+[
+  {
+    "id": 44,
+    "imgLink": "https://octodex.github.com//spectrocat/",
+    "catImg": "https://octodex.github.com//images/spectrocat.png",
+    "catName": "Spectrocat",
+    "artistLink": "https://github.com/cameronmcefee",
+    "artistImg": "https://github.com/cameronmcefee.png",
+    "artistName": "cameronmcefee"
+  },
+  {
+    "id": 42,
+    "imgLink": "https://octodex.github.com//spectrocat/",
+    "catImg": "https://octodex.github.com//images/spectrocat.png",
+    "catName": "Spectrocat",
+    "artistLink": "https://github.com/cameronmcefee",
+    "artistImg": "https://github.com/cameronmcefee.png",
+    "artistName": "cameronmcefee"
+  },
+  {
+    "id": 55,
+    "imgLink": "https://octodex.github.com//octocat-de-los-muertos/",
+    "catImg": "https://octodex.github.com//images/octocat-de-los-muertos.jpg",
+    "catName": "OctocatDeLosMuertos",
+    "artistLink": "https://github.com/cameronmcefee",
+    "artistImg": "https://github.com/cameronmcefee.png",
+    "artistName": "cameronmcefee"
+  },
+  {
+    "id": 3,
+    "imgLink": "https://octodex.github.com//octobiwan/",
+    "catImg": "https://octodex.github.com//images/octobiwan.jpg",
+    "catName": "OctobiWanCatnobi",
+    "artistLink": "https://github.com/cameronmcefee",
+    "artistImg": "https://github.com/cameronmcefee.png",
+    "artistName": "cameronmcefee"
+  },
+  {
+    "id": 80,
+    "imgLink": "https://octodex.github.com//nyantocat/",
+    "catImg": "https://octodex.github.com//images/nyantocat.gif",
+    "catName": "Nyantocat",
+    "artistLink": "https://github.com/cameronmcefee",
+    "artistImg": "https://github.com/cameronmcefee.png",
+    "artistName": "cameronmcefee"
+  },
+  {
+    "id": 84,
+    "imgLink": "https://octodex.github.com//stormtroopocat/",
+    "catImg": "https://octodex.github.com//images/stormtroopocat.png",
+    "catName": "Stormtroopocat",
+    "artistLink": "https://github.com/jeejkang",
+    "artistImg": "https://github.com/jeejkang.png",
+    "artistName": "jeejkang"
+  },
+  {
+    "id": 100,
+    "imgLink": "https://octodex.github.com//daftpunktocat-guy/",
+    "catImg": "https://octodex.github.com//images/daftpunktocat-guy.gif",
+    "catName": "Daftpunktocat-Guy",
+    "artistLink": "https://github.com/jeejkang",
+    "artistImg": "https://github.com/jeejkang.png",
+    "artistName": "jeejkang"
+  },
+  {
+    "id": 99,
+    "imgLink": "https://octodex.github.com//daftpunktocat-thomas/",
+    "catImg": "https://octodex.github.com//images/daftpunktocat-thomas.gif",
+    "catName": "Daftpunktocat-Thomas",
+    "artistLink": "https://github.com/jeejkang",
+    "artistImg": "https://github.com/jeejkang.png",
+    "artistName": "jeejkang"
+  },
+  {
+    "id": 105,
+    "imgLink": "https://octodex.github.com//mummytocat/",
+    "catImg": "https://octodex.github.com//images/mummytocat.gif",
+    "catName": "Mummytocat",
+    "artistLink": "https://github.com/tonyjaramillo",
+    "artistImg": "https://github.com/tonyjaramillo.png",
+    "artistName": "tonyjaramillo"
+  },
+  {
+    "id": 108,
+    "imgLink": "https://octodex.github.com//linktocat/",
+    "catImg": "https://octodex.github.com//images/linktocat.jpg",
+    "catName": "Linktocat",
+    "artistLink": "https://github.com/cameronmcefee",
+    "artistImg": "https://github.com/cameronmcefee.png",
+    "artistName": "cameronmcefee"
+  },
+  {
+    "id": 149,
+    "imgLink": "https://octodex.github.com//terracottocat/",
+    "catImg": "https://octodex.github.com//images/Terracottocat_Single.png",
+    "catName": "Terracottocat",
+    "artistLink": "https://github.com/chubbmo",
+    "artistImg": "https://github.com/chubbmo.png",
+    "artistName": "chubbmo"
+  },
+  {
+    "id": 148,
+    "imgLink": "https://octodex.github.com//octogatos/",
+    "catImg": "https://octodex.github.com//images/Octogatos.png",
+    "catName": "Octogatos",
+    "artistLink": "https://github.com/cameronfoxly",
+    "artistImg": "https://github.com/cameronfoxly.png",
+    "artistName": "cameronfoxly"
+  },
+  {
+    "id": 130,
+    "imgLink": "https://octodex.github.com//dinotocat/",
+    "catImg": "https://octodex.github.com//images/dinotocat.png",
+    "catName": "Dinotocat",
+    "artistLink": "https://github.com/kimestoesta",
+    "artistImg": "https://github.com/kimestoesta.png",
+    "artistName": "kimestoesta"
+  },
+  {
+    "id": 88,
+    "imgLink": "https://octodex.github.com//spidertocat/",
+    "catImg": "https://octodex.github.com//images/spidertocat.png",
+    "catName": "Spidertocat",
+    "artistLink": "https://github.com/jeejkang",
+    "artistImg": "https://github.com/jeejkang.png",
+    "artistName": "jeejkang"
+  }
+]
